@@ -7,3 +7,4 @@
 - [New York City Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 - [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist?select=fashion-mnist_train.csv)
 - [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
+- [Flower Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
