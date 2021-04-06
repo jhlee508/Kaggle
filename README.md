@@ -8,3 +8,4 @@
 - [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist?select=fashion-mnist_train.csv)
 - [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats)
 - [Flower Recognition](https://www.kaggle.com/alxmamaev/flowers-recognition)
+- [Face Mask ~12K Images Dataset](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset)
